@@ -1,16 +1,9 @@
 
-#---Stack Overflow Survey------------------------------------------------------
-
-# Stack Overflow is a question and answer site for professional and enthusiast
-# programmers. It's built and run as part of the Stack Exchange network.
-# Each month, over 50 million developers visit Stack Overflow to learn and 
-# share their knowledge.
-
 #---Working Directory----------------------------------------------------------
 
 import os
 os.getcwd()
-os.chdir(r'/Users/yossigausman/Desktop/DSA/PDA/Working Directory')
+os.chdir(...)
 
 #---Libraries------------------------------------------------------------------
 
